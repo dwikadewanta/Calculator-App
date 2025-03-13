@@ -48,6 +48,6 @@ This project was built using:
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - [math_expressions](https://pub.dev/packages/math_expressions)
 
-## Future Developments
+## Future Developments 🚀
 - Add support for landscape mode
 - Include more operations in landscape mode
