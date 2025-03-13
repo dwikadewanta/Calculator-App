@@ -3,17 +3,23 @@
 [![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-Language-blue)](https://dart.dev/)
 
-## Project Description
+## Project Description 📜
 The Calculator app is a simple calculator application that supports basic operations such as addition, subtraction, multiplication, and division. Additionally, the application supports square root and sine (SIN) operations in radians. It features a simple, clean, and pleasant user interface. The Light and Dark themes have different appearances depending on the system theme used by the user.
 
-## Preview
+## Preview 📱
+### Light Theme ☀️
+| ![light_preview1](https://github.com/dwikadewanta/Calculator-App/blob/master/assets/light_preview1.gif) | ![light_preview2](https://github.com/dwikadewanta/Calculator-App/blob/master/assets/light_preview2.gif) |
+|-----------------|-----------------|
+### Dark Theme 🌑
+| ![dark_preview1](https://github.com/dwikadewanta/Calculator-App/blob/master/assets/dark_preview1.gif) | ![dark_preview2](https://github.com/dwikadewanta/Calculator-App/blob/master/assets/dark_preview2.gif) |
+|-----------------|-----------------|
 
-## Key Features
+## Key Features ✨
 - 🖥️ Simple and User-Friendly Interface
 - 🌗 Support Light and Dark Theme Interface
 - 📱 Multi-platform Support
 
-## Installation
+## Installation 📥
 Follow the steps below to run this project on your local machine:
 
 1. Clone this repository:
@@ -33,11 +39,15 @@ Follow the steps below to run this project on your local machine:
     flutter run
     ```
     
-## Technologies Used
+## Technologies Used 🛠️
 This project was built using:
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 
-## Package / Libraries
+## Package / Libraries 📦
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - [math_expressions](https://pub.dev/packages/math_expressions)
+
+## Future Developments
+- Add support for landscape mode
+- Include more operations in landscape mode
